@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleproject.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleproject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleproject_main.iml" group="gradleproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleproject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleproject_test.iml" group="gradleproject" />
+    </modules>
+  </component>
+</project>
