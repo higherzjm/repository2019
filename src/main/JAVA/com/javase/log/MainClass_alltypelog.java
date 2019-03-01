@@ -58,6 +58,6 @@ public class MainClass_alltypelog {
     }
 
     public void test20190301(){
-        System.out.println("更新20190301 14:22");
+        System.out.println("更新2019-03-01 14:30");
     }
 }
