@@ -57,7 +57,7 @@ public class MainClass_alltypelog {
         log.info("slf4jLog_abc123张三");
     }
 
-    public void test11(){
-       System.out.println("0001111");
+    public void test20190301(){
+        System.out.println("更新20190301 13:17");
     }
 }
